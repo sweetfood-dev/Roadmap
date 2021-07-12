@@ -19,4 +19,4 @@ Swift 로드맵을 구성하였습니다.
 <br>
 <br>
 
-[Top으로 가기](https://github.com/sweetfood-dev/Roadmap/edit/main/README.md#%EB%AA%A9%EC%B0%A8)
+[Top으로 가기](https://github.com/sweetfood-dev/Roadmap/blob/main/README.md#%EB%AA%A9%EC%B0%A8)

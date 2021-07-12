@@ -112,7 +112,7 @@ Swift Road map
   - rethrows
 
 - 🔗[Memory]
-  - arc
+  - [arc](https://sweetfood-dev.github.io/swift/ARC/)
   - Access
     - Layout
     - Unsafe pointer

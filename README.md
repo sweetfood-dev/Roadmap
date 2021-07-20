@@ -17,10 +17,10 @@ Swift Road map
 
 # 💡목차
 - 🔗[The Basic]
-  - [Optionals](https://sweetfood-dev.github.io/Optional/)
-    - [nil](https://sweetfood-dev.github.io/Optional/)
-    - [if문과 강제언래핑](https://sweetfood-dev.github.io/Optional2)
-    - [optional binding](https://sweetfood-dev.github.io/Optional2)
+  - [Optionals](https://sweetfood-dev.github.io/swift/Optional/)
+    - [nil](https://sweetfood-dev.github.io/swift/Optional/)
+    - [if문과 강제언래핑](https://sweetfood-dev.github.io/swift/Optional2)
+    - [optional binding](https://sweetfood-dev.github.io/swift/Optional2)
     - optional chaning
   - Tuples
   - Collection

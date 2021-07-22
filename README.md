@@ -21,7 +21,7 @@ Swift Road map
     - [nil](https://sweetfood-dev.github.io/swift/Optional/)
     - [if문과 강제언래핑](https://sweetfood-dev.github.io/swift/Optional2)
     - [optional binding](https://sweetfood-dev.github.io/swift/Optional2)
-    - optional chaning
+    - [optional chaning](https://sweetfood-dev.github.io/swift/OptionalChaining)
   - Tuples
   - Collection
     - Array

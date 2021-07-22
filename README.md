@@ -22,7 +22,7 @@ Swift Road map
     - [if문과 강제언래핑](https://sweetfood-dev.github.io/swift/Optional2)
     - [optional binding](https://sweetfood-dev.github.io/swift/Optional2)
     - [optional chaning](https://sweetfood-dev.github.io/swift/OptionalChaining)
-  - Tuples
+  - [Tuples](https://sweetfood-dev.github.io/swift/Tuple/)
   - Collection
     - Array
     - Set

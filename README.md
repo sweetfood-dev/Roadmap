@@ -24,7 +24,7 @@ Swift Road map
     - [optional chaning](https://sweetfood-dev.github.io/swift/OptionalChaining)
   - [Tuples](https://sweetfood-dev.github.io/swift/Tuple/)
   - Collection
-    - Array
+    - [Array](https://sweetfood-dev.github.io/swift/Array/)
     - Set
     - Dictionary
 

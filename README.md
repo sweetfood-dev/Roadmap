@@ -26,7 +26,7 @@ Swift Road map
   - Collection
     - [Array](https://sweetfood-dev.github.io/swift/Array/)
     - Set
-    - Dictionary
+    - [Dictionary](https://sweetfood-dev.github.io/swift/Dictionary/)
 
 - 🔗[Function]
   - Parameter and Returns

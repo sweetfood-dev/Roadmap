@@ -31,7 +31,7 @@ Swift Road map
 - 🔗[Function](https://sweetfood-dev.github.io/swift/Function/)
   - [Parameter and Returns](https://sweetfood-dev.github.io/swift/Function2-ParameterAndReturn/)
   - [in-out](https://sweetfood-dev.github.io/swift/function3-inout/)
-  - Function types
+  - [Function types](https://sweetfood-dev.github.io/swift/function4-functiontype/)
   - Opaque types
   - Nested functions
 

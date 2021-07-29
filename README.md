@@ -28,9 +28,9 @@ Swift Road map
     - Set
     - [Dictionary](https://sweetfood-dev.github.io/swift/Dictionary/)
 
-- 🔗[Function]
-  - Parameter and Returns
-  - in-out
+- 🔗[Function](https://sweetfood-dev.github.io/swift/Function/)
+  - [Parameter and Returns](https://sweetfood-dev.github.io/swift/Function2-ParameterAndReturn/)
+  - [in-out](https://sweetfood-dev.github.io/swift/function3-inout/)
   - Function types
   - Opaque types
   - Nested functions

@@ -33,7 +33,7 @@ Swift Road map
   - [in-out](https://sweetfood-dev.github.io/swift/function3-inout/)
   - [Function types](https://sweetfood-dev.github.io/swift/function4-functiontype/)
   - Opaque types
-  - Nested functions
+  - [Nested functions](https://sweetfood-dev.github.io/swift/function5-NestedFunction/)
 
 - 🔗[Closures]
   - Trailing closuers

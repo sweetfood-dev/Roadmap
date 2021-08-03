@@ -35,7 +35,7 @@ Swift Road map
   - Opaque types
   - [Nested functions](https://sweetfood-dev.github.io/swift/function5-NestedFunction/)
 
-- 🔗[Closures]
+- 🔗[Closures](https://sweetfood-dev.github.io/swift/Closure/)
   - Trailing closuers
   - Expression
   - Capture values

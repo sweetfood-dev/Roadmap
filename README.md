@@ -40,6 +40,7 @@ Swift Road map
   - [Expression - 1](https://sweetfood-dev.github.io/swift/Closure1-expression/)
   - [Expression - 2](https://sweetfood-dev.github.io/swift/Closure2-expression/)
   - [Capture values](https://sweetfood-dev.github.io/swift/Closure3-Capturing/)
+  - [Capture Lists](https://sweetfood-dev.github.io/swift/Closure4-CaptureList/)
   - Escaping closures
   - Autoclosures
   - Curring

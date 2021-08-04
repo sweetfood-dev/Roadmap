@@ -36,10 +36,10 @@ Swift Road map
   - [Nested functions](https://sweetfood-dev.github.io/swift/function5-NestedFunction/)
 
 - 🔗[Closures](https://sweetfood-dev.github.io/swift/Closure/)
-  - Trailing closuers
+  - [Trailing closuers](https://sweetfood-dev.github.io/swift/Closure2-expression/#후행-클로저trailing-closures)
   - [Expression - 1](https://sweetfood-dev.github.io/swift/Closure1-expression/)
   - [Expression - 2](https://sweetfood-dev.github.io/swift/Closure2-expression/)
-  - Capture values
+  - [Capture values](https://sweetfood-dev.github.io/swift/Closure3-Capturing/)
   - Escaping closures
   - Autoclosures
   - Curring

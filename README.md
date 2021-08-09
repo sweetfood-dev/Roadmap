@@ -46,9 +46,9 @@ Swift Road map
   - Curring
 
 - 🔗[Value type]
-  - Enum
-    - Associated values
-    - Raw values
+  - [Enum](https://sweetfood-dev.github.io/swift/enumerations/)
+    - [Associated values](https://sweetfood-dev.github.io/swift/enumerations1-AssociatedValue/)
+    - [Raw values](https://sweetfood-dev.github.io/swift/enumerations2-rawValue/)
   - Struct
 
 - 🔗[Reference type]

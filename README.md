@@ -56,7 +56,7 @@ Swift Road map
   - [Class vs Struct](https://sweetfood-dev.github.io/swift/StructAndClass/)
 
 - 🔗[Property]
-  - Stored properties
+  - [Stored properties](https://sweetfood-dev.github.io/swift/property2-savedProperty/)
   - Computed properties
   - Property observers
   - Type properties

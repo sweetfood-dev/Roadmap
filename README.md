@@ -49,11 +49,11 @@ Swift Road map
   - [Enum](https://sweetfood-dev.github.io/swift/enumerations/)
     - [Associated values](https://sweetfood-dev.github.io/swift/enumerations1-AssociatedValue/)
     - [Raw values](https://sweetfood-dev.github.io/swift/enumerations2-rawValue/)
-  - Struct
+  - [Struct](https://sweetfood-dev.github.io/swift/StructAndClass/#값-타입)
 
 - 🔗[Reference type]
-  - Class
-  - Class vs Struct
+  - [Class](https://sweetfood-dev.github.io/swift/StructAndClass/#참조-타입)
+  - [Class vs Struct](https://sweetfood-dev.github.io/swift/StructAndClass/)
 
 - 🔗[Property]
   - Stored properties

@@ -55,7 +55,7 @@ Swift Road map
   - [Class](https://sweetfood-dev.github.io/swift/StructAndClass/#참조-타입)
   - [Class vs Struct](https://sweetfood-dev.github.io/swift/StructAndClass/)
 
-- 🔗[Property]
+- 🔗[Property](https://sweetfood-dev.github.io/swift/property/)
   - [Stored properties](https://sweetfood-dev.github.io/swift/property2-savedProperty/)
   - Computed properties
   - Property observers

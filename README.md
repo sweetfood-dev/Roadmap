@@ -59,7 +59,7 @@ Swift Road map
   - [Stored properties](https://sweetfood-dev.github.io/swift/property2-savedProperty/)
   - [Computed properties](https://sweetfood-dev.github.io/swift/property3-computedProperty/)
   - [Property observers](https://sweetfood-dev.github.io/swift/property4-propertybservers/)
-  - Type properties
+  - [Type properties](https://sweetfood-dev.github.io/swift/property6-typeproperty/)
   - [Wrapper](https://sweetfood-dev.github.io/swift/property5-propertywrapper/)
 
 - 🔗[Method]

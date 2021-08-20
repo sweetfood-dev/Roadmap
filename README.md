@@ -63,8 +63,8 @@ Swift Road map
   - [Wrapper](https://sweetfood-dev.github.io/swift/property5-propertywrapper/)
 
 - 🔗[Method]
-  - Instance method
-  - Type method
+  - [Instance method](https://sweetfood-dev.github.io/swift/method/#인스턴스-메소드)
+  - [Type method](https://sweetfood-dev.github.io/swift/method/#타입-메소드)
 
 - 🔗[Subscript]
   - Options

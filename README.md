@@ -70,22 +70,22 @@ Swift Road map
   - Options
 
 - 🔗[Initialization]
-  - Delegation
-  - Two-Phase
-  - Failable
-  - Required
+  - [Delegation](https://sweetfood-dev.github.io/swift/initializer/#이니셜라이저-위임)
+  - [Two-Phase](https://sweetfood-dev.github.io/swift/2phaseinit/)
+  - [Failable](https://sweetfood-dev.github.io/swift/1-initializedpart3/#실패-가능한-초기화-failable-initializers)
+  - [Required](https://sweetfood-dev.github.io/swift/1-initializedpart3/#필수-이니셜라이저)
 
-- 🔗[Deinitialization]
+- 🔗[Deinitialization](https://sweetfood-dev.github.io/swift/2-deinitialization/)
 - 🔗[Inheritence]
   - Subclassing
   - Overriding
-- 🔗[Extensions]
+- 🔗[Extensions](https://sweetfood-dev.github.io/swift/1-extension/)
   - Conform protocol
-  - Properties
-  - Method
-  - Initializer
-  - Nested type
-  - Subscript
+  - [Properties](https://sweetfood-dev.github.io/swift/1-extension/#연산-프로퍼티-추가)
+  - [Method](https://sweetfood-dev.github.io/swift/1-extension/#메소드-추가)
+  - [Initializer](https://sweetfood-dev.github.io/swift/1-extension/#이니셜라이저-추가)
+  - [Nested type](https://sweetfood-dev.github.io/swift/1-extension/#중첩-타입의-추가-nested-type)
+  - [Subscript](https://sweetfood-dev.github.io/swift/1-extension/#첨자-추가-subscript)
 
 - 🔗[Protocol]
   - Property requirements
@@ -107,10 +107,10 @@ Swift Road map
   - Generic where clauses
   - Generic subscript
 
-- 🔗[Error Handling]
+- 🔗[Error Handling](https://sweetfood-dev.github.io/swift/errorhandling/)
   - Error protocol
-  - do - catch
-  - throw
+  - [do - catch](https://sweetfood-dev.github.io/swift/errorhandling/#do---catch를-사용한-에러-처리)
+  - [throw](https://sweetfood-dev.github.io/swift/errorhandling/#에러-표시와-던지기throw)
   - rethrows
 
 - 🔗[Memory]

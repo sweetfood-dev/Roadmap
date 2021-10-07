@@ -98,14 +98,14 @@ Swift Road map
   - [Optional](https://sweetfood-dev.github.io/swift/3-protocol4/#선택적-프로토콜-요구조건-optional-protocol-requirements)
   - [Default implementation](https://sweetfood-dev.github.io/swift/2-protocol5/#기본-구현-default-implementations)
 
-- 🔗[Generics]
-  - Associated types
-  - Type parameter
-  - Generic functions
-  - Type constraints
-  - Generic types
-  - Generic where clauses
-  - Generic subscript
+- 🔗[Generics](https://sweetfood-dev.github.io/swift/1-generic/)
+  - [Associated types](https://sweetfood-dev.github.io/swift/2-generic2/#연관-타입associated-types
+  - [Type parameter](https://sweetfood-dev.github.io/swift/1-generic/#타입-파라미터--type-parameter-)
+  - [Generic functions](https://sweetfood-dev.github.io/swift/1-generic/#제네릭-함수--generic-functions)
+  - [Type constraints](https://sweetfood-dev.github.io/swift/1-generic/#타입-제약-조건type-constrains)
+  - [Generic types](https://sweetfood-dev.github.io/swift/1-generic/#generic-types)
+  - [Generic where clauses](https://sweetfood-dev.github.io/swift/2-generic2/#제네릭-where절-generic-where-clauses)
+  - [Generic subscript](https://sweetfood-dev.github.io/swift/2-generic2/#제네릭-subscripts-generic-subscript)
 
 - 🔗[Error Handling](https://sweetfood-dev.github.io/swift/errorhandling/)
   - Error protocol
